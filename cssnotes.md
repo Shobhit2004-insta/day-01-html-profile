@@ -14,3 +14,21 @@
 - Styled profile page
 - Styled contact form
 
+### Status
+Day 3 completed ✅  
+
+## Day 3 – CSS + UL Styling
+
+### What I Built
+- Styled navbar using Flexbox
+- Clean layout using container
+- Styled unordered list (ul)
+
+### Concepts Learned
+- display: flex
+- justify-content & align-items
+- Removing default ul styles
+- Linking external CSS
+
+### Status
+Day 3 completed ✅
