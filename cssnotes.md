@@ -98,7 +98,7 @@ Day 3 completed ✅
   Media Queries
 
 
-**📘 Day 5 – JavaScript Basics Notes**
+## 📘 Day 5 – JavaScript Basics Notes
   1️⃣ What is JavaScript?
 
   JavaScript is a programming language used to make          websites interactive.
@@ -230,7 +230,7 @@ Day 3 completed ✅
 
   README
 
-  **📘 Day 6 – DOM Manipulation & Events**
+  ## 📘 Day 6 – DOM Manipulation & Events
   1️⃣ What is DOM?
 
   DOM (Document Object Model) is a structure of the           webpage that allows JavaScript to access and modify   HTML elements.
