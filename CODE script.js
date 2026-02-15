@@ -1,3 +1,5 @@
+# Day 5 JAVAScript consept (Start)
+
 // Change Text
 function changeText() {
     document.getElementById("text").innerHTML = "Text Changed Successfully!";
@@ -26,3 +28,27 @@ function decrease() {
     count--;
     document.getElementById("count").innerHTML = count;
 }
+
+
+# Day 6 DOM (Doument Object Model)
+
+let addBtn = document.querySelector("#addBtn");
+let taskInput = document.querySelector("#taskInput");
+let taskList = document.querySelector("#taskList");
+
+addBtn.addEventListener("click", function(){
+    let taskText = taskInput.value;
+
+    if (taskText === ""){
+        alert("Please enter a task");
+        return;
+    }
+
+    let li = document.createElement("li");
+    li.innerHTML= taskText;
+
+    taskList.appendChild(li);
+    
+    taskInput.value = "";
+});
+
