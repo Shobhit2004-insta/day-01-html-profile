@@ -33,8 +33,8 @@ Day 3 completed ✅
 ### Status
 Day 3 completed ✅
 
-📘 Day 4 – Notes (Responsive Design)
-1️⃣ What is Responsive Design?
+**📘 Day 4 – Notes (Responsive Design)**
+1️⃣** What is Responsive Design?
 
 Responsive design means making a website that looks good on mobile, tablet, and desktop automatically.
 
@@ -97,7 +97,7 @@ CSS
 Media Queries
 
 
-📘 Day 5 – JavaScript Basics Notes
+**📘 Day 5 – JavaScript Basics Notes**
 1️⃣ What is JavaScript?
 
 JavaScript is a programming language used to make websites interactive.
@@ -229,7 +229,7 @@ Responsive design makes websites work properly on all screen sizes using media q
 
 README
 
-📘 Day 6 – DOM Manipulation & Events
+**📘 Day 6 – DOM Manipulation & Events**
 1️⃣ What is DOM?
 
 DOM (Document Object Model) is a structure of the webpage that allows JavaScript to access and modify HTML elements.
