@@ -33,7 +33,7 @@ Day 3 completed ✅
 ### Status
 Day 3 completed ✅
 
-**📘 Day 4 – Notes (Responsive Design)**
+## 📘 Day 4 – Notes (Responsive Design)
 1️⃣** What is Responsive Design?
 
 Responsive design means making a website that looks good on mobile, tablet, and desktop automatically.
