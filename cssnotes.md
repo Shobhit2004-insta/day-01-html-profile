@@ -226,3 +226,123 @@ Chrome Inspect Tool
 8️⃣ One-Line Interview Answer
 
 Responsive design makes websites work properly on all screen sizes using media queries.
+
+README
+
+📘 Day 6 – DOM Manipulation & Events
+1️⃣ What is DOM?
+
+DOM (Document Object Model) is a structure of the webpage that allows JavaScript to access and modify HTML elements.
+
+JavaScript can:
+
+Change text
+
+Change styles
+
+Add elements
+
+Remove elements
+
+2️⃣ querySelector()
+
+Used to select elements using CSS selectors.
+
+Example:
+
+document.querySelector("h1")
+document.querySelector("#idName")
+document.querySelector(".className")
+
+
+It selects the first matching element.
+
+3️⃣ Difference: getElementById vs querySelector
+
+getElementById:
+
+document.getElementById("title");
+
+
+querySelector:
+
+document.querySelector("#title");
+
+
+querySelector is more flexible because it supports id, class, and tags.
+
+4️⃣ addEventListener()
+
+Used to add events in a clean way.
+
+Example:
+
+button.addEventListener("click", function() {
+    alert("Clicked");
+});
+
+
+Advantages:
+
+Keeps HTML clean
+
+Better structure
+
+Professional approach
+
+5️⃣ createElement()
+
+Used to create new HTML elements using JavaScript.
+
+Example:
+
+let para = document.createElement("p");
+
+6️⃣ appendChild()
+
+Used to add element to webpage.
+
+Example:
+
+document.body.appendChild(para);
+
+7️⃣ Getting Input Value
+
+To read value from input field:
+
+let value = input.value;
+
+
+Used in To-Do app.
+
+8️⃣ Mini Project Logic – To-Do App
+
+Steps:
+
+Select input
+
+Select button
+
+Add click event
+
+Get input value
+
+Create <li>
+
+Append to <ul>
+
+Clear input
+
+🧠 Important Concepts Learned
+
+✔ DOM manipulation
+✔ querySelector
+✔ addEventListener
+✔ createElement
+✔ appendChild
+✔ Reading user input
+✔ Clean JS structure
+
+🎯 One-Line Interview Answer
+
+DOM manipulation allows JavaScript to dynamically update and control HTML elements.
